@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App2.xr.xml" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/App2.xr.xml">
+				<Candidate type="Path">
+					<Value>App2.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HomePage.xbf" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/HomePage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SearchPage.xbf" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/SearchPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="FxResources.System.Xml.XPath.XmlDocument.SR">
+			<NamedResource name="Xdom_Node_Modify_ReadOnly" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xdom_Node_Modify_ReadOnly">
+				<Candidate type="String">
+					<Value>This node is read-only. It cannot be modified.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_BadFormat" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_BadFormat">
+				<Candidate type="String">
+					<Value>The string '{0}' is not a valid {1} value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_BadUri" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_BadUri">
+				<Candidate type="String">
+					<Value>The string was not recognized as a valid Uri.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_NotOneCharString" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_NotOneCharString">
+				<Candidate type="String">
+					<Value>String must be exactly one character long.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_Overflow" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_Overflow">
+				<Candidate type="String">
+					<Value>Value '{0}' was either too large or too small for {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeBadMapping" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeBadMapping">
+				<Candidate type="String">
+					<Value>Xml type '{0}' does not support Clr type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeBadMapping2" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeBadMapping2">
+				<Candidate type="String">
+					<Value>Xml type '{0}' does not support a conversion from Clr type '{1}' to Clr type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeFromString" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeFromString">
+				<Candidate type="String">
+					<Value>Xml type '{0}' cannot convert to Clr type '{1}' unless the source value is a String or an XmlAtomicValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeListBadMapping" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeListBadMapping">
+				<Candidate type="String">
+					<Value>Xml type 'List of {0}' does not support Clr type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeListBadMapping2" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeListBadMapping2">
+				<Candidate type="String">
+					<Value>Xml type 'List of {0}' does not support a conversion from Clr type '{1}' to Clr type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeNoNamespace" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeNoNamespace">
+				<Candidate type="String">
+					<Value>The String '{0}' cannot be represented as an XmlQualifiedName.  A namespace for prefix '{1}' cannot be found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeNoPrefix" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeNoPrefix">
+				<Candidate type="String">
+					<Value>The QName '{0}' cannot be represented as a String.  A prefix for namespace '{1}' cannot be found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="XmlConvert_TypeToString" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/XmlConvert_TypeToString">
+				<Candidate type="String">
+					<Value>Xml type '{0}' cannot convert from Clr type '{1}' unless the destination type is String or XmlAtomicValue.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_BadNameChar" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_BadNameChar">
+				<Candidate type="String">
+					<Value>The '{0}' character, hexadecimal value {1}, cannot be included in a name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_BadStartNameChar" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_BadStartNameChar">
+				<Candidate type="String">
+					<Value>Name cannot begin with the '{0}' character, hexadecimal value {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CanNotBindToReservedNamespace" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CanNotBindToReservedNamespace">
+				<Candidate type="String">
+					<Value>Cannot bind to the reserved namespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CannotStartDocumentOnFragment" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CannotStartDocumentOnFragment">
+				<Candidate type="String">
+					<Value>WriteStartDocument cannot be called on writers created with ConformanceLevel.Fragment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_CannotWriteXmlDecl" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_CannotWriteXmlDecl">
+				<Candidate type="String">
+					<Value>Cannot write XML declaration. XML declaration can be only at the beginning of the document.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ClosedOrError" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ClosedOrError">
+				<Candidate type="String">
+					<Value>The Writer is closed or in error state.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ConformanceLevelFragment" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ConformanceLevelFragment">
+				<Candidate type="String">
+					<Value>Make sure that the ConformanceLevel setting is set to ConformanceLevel.Fragment or ConformanceLevel.Auto if you want to write an XML fragment.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DtdAlreadyWritten" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DtdAlreadyWritten">
+				<Candidate type="String">
+					<Value>The DTD has already been written out.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DtdNotAllowedInFragment" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DtdNotAllowedInFragment">
+				<Candidate type="String">
+					<Value>DTD is not allowed in XML fragments.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DupAttributeName" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DupAttributeName">
+				<Candidate type="String">
+					<Value>'{0}' is a duplicate attribute name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_DupXmlDecl" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_DupXmlDecl">
+				<Candidate type="String">
+					<Value>Cannot write XML declaration. WriteStartDocument method has already written it.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_EmptyLocalName" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_EmptyLocalName">
+				<Candidate type="String">
+					<Value>The empty string '' is not a valid local name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_EmptyName" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_EmptyName">
+				<Candidate type="String">
+					<Value>The empty string '' is not a valid name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_ErrorPosition" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_ErrorPosition">
+				<Candidate type="String">
+					<Value>Line {0}, position {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidCharacter" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidCharacter">
+				<Candidate type="String">
+					<Value>'{0}', hexadecimal value {1}, is an invalid character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidNameCharsDetail" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidNameCharsDetail">
+				<Candidate type="String">
+					<Value>Invalid name character in '{0}'. The '{1}' character, hexadecimal value {2}, cannot be included in a name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidOperation" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidOperation">
+				<Candidate type="String">
+					<Value>Operation is not valid due to the current state of the object.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidReadContentAs" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidReadContentAs">
+				<Candidate type="String">
+					<Value>The {0} method is not supported on node type {1}. If you want to read typed content of an element, use the ReadElementContentAs method.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidReadElementContentAs" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidReadElementContentAs">
+				<Candidate type="String">
+					<Value>The {0} method is not supported on node type {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogateHighChar" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogateHighChar">
+				<Candidate type="String">
+					<Value>Invalid high surrogate character (0x{0}). A high surrogate character must have a value from range (0xD800 - 0xDBFF).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogateMissingLowChar" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogateMissingLowChar">
+				<Candidate type="String">
+					<Value>The surrogate pair is invalid. Missing a low surrogate character.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidSurrogatePairWithArgs" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidSurrogatePairWithArgs">
+				<Candidate type="String">
+					<Value>The surrogate pair (0x{0}, 0x{1}) is invalid. A high surrogate character (0xD800 - 0xDBFF) must always be paired with a low surrogate character (0xDC00 - 0xDFFF).</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_InvalidXmlSpace" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_InvalidXmlSpace">
+				<Candidate type="String">
+					<Value>'{0}' is an invalid xml:space value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NamespaceDeclXmlXmlns" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NamespaceDeclXmlXmlns">
+				<Candidate type="String">
+					<Value>Prefix '{0}' cannot be mapped to namespace name reserved for \"xml\" or \"xmlns\".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NonWhitespace" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NonWhitespace">
+				<Candidate type="String">
+					<Value>Only white space characters should be used.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NoRoot" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NoRoot">
+				<Candidate type="String">
+					<Value>Document does not have a root element.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_NoStartTag" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_NoStartTag">
+				<Candidate type="String">
+					<Value>There was no XML start tag open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_PrefixForEmptyNs" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_PrefixForEmptyNs">
+				<Candidate type="String">
+					<Value>Cannot use a prefix with an empty namespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_RedefinePrefix" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_RedefinePrefix">
+				<Candidate type="String">
+					<Value>The prefix '{0}' cannot be redefined from '{1}' to '{2}' within the same start element tag.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_UndefNamespace" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_UndefNamespace">
+				<Candidate type="String">
+					<Value>The '{0}' namespace is not defined.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_WrongToken" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_WrongToken">
+				<Candidate type="String">
+					<Value>Token {0} in state {1} would result in an invalid XML document.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_XmlnsPrefix" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_XmlnsPrefix">
+				<Candidate type="String">
+					<Value>Prefix \"xmlns\" is reserved for use by XML.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xml_XmlPrefix" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xml_XmlPrefix">
+				<Candidate type="String">
+					<Value>Prefix \"xml\" is reserved for use by XML and can be mapped only to namespace name \"http://www.w3.org/XML/1998/namespace\".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_BadPosition" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_BadPosition">
+				<Candidate type="String">
+					<Value>Operation is not valid due to the current position of the navigator.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_MissingParent" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_MissingParent">
+				<Candidate type="String">
+					<Value>The current position of the navigator is missing a valid parent.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Xpn_NoContent" uri="ms-resource://5c9dc6ea-4bb9-4525-9d15-4f87ea0c8bd9/FxResources.System.Xml.XPath.XmlDocument.SR/Xpn_NoContent">
+				<Candidate type="String">
+					<Value>No content generated as the result of the operation.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

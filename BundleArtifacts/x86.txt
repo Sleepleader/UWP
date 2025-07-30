@@ -1,0 +1,2 @@
+MainPackage=C:\Users\14917\Desktop\App2\App2\bin\x86\Debug\App2_0.0.1.0_x86_Debug.msix
+SymbolPackage=C:\Users\14917\Desktop\App2\App2\obj\x86\Debug\Symbols\App2_0.0.1.0_x86_Debug.appxsym
