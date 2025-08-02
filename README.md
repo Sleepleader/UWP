@@ -5,5 +5,4 @@ My UWP Project
 <img width="1202" height="934" alt="image" src="https://github.com/user-attachments/assets/600b95d9-92cf-4196-b59c-231bc947ee30" />
 
 
-| ---- | ------ | -------- |
-| <img src="[https://avatars.githubusercontent.com/u/xxxxxx?v=4](https://github.com/account)" width="40"> | [Sleepleader](https://github.com/Sleepleader) | 修复核心功能 bug、新增文档 |
+<img src="[https://avatars.githubusercontent.com/u/104685765?v=4]" width="40"> | [Sleepleader](https://github.com/Sleepleader) | 修复核心功能 bug、新增文档 |
